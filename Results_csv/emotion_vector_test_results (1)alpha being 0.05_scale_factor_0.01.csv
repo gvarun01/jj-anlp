@@ -1,0 +1,74 @@
+sentence,emotion_config,emotion_weights,response_with_emotion,response_without_emotion,anger_weight,disgust_weight,fear_weight,joy_weight,sadness_weight,sentiment_difference,length_with_emotion,length_without_emotion,length_difference
+Tell me about your day today.,neutral,"[0.0, 0.0, 0.0, 0.0, 0.0]","I'm just a language model, I don't have personal experiences or emotions like humans do, so I didn't have a ""day"" in the classical sense. However, I was designed to be available 24/7 and ready to assist you whenever you need help.
+
+That being said, here","I'm just a language model, I don't have personal experiences or emotions like humans do, so I didn't have a ""day"" in the classical sense. However, I was designed to be available 24/7 and ready to assist you whenever you need help.
+
+That being said, here",0.0,0.0,0.0,0.0,0.0,0,253,253,0
+Tell me about your day today.,angry,"[0.05, 0.0, 0.0, 0.0, 0.0]","I'm just a large language model, I don't have personal experiences or emotions like humans do, so I didn't actually ""have"" a day in the way that you might be thinking of.
+
+However, I was trained on a vast corpus of text data and can provide information about my internal operations","I'm just a language model, I don't have personal experiences or emotions like humans do, so I didn't have a ""day"" in the classical sense. However, I was designed to be available 24/7 and ready to assist you whenever you need help.
+
+That being said, here",0.05,0.0,0.0,0.0,0.0,0,281,253,28
+Tell me about your day today.,disgusted,"[0.0, 0.05, 0.0, 0.0, 0.0]","I'm just a language model, I don't have personal experiences or emotions like humans do, so I didn't actually ""have"" a day in the way that you did. However, I can tell you about my current state and activities!
+
+Since I'm an online AI assistant, I've been","I'm just a language model, I don't have personal experiences or emotions like humans do, so I didn't have a ""day"" in the classical sense. However, I was designed to be available 24/7 and ready to assist you whenever you need help.
+
+That being said, here",0.0,0.05,0.0,0.0,0.0,0,255,253,2
+Tell me about your day today.,fearful,"[0.0, 0.0, 0.05, 0.0, 0.0]","I'm just a language model, I don't have personal experiences or emotions like humans do, so I didn't really ""have"" a day in the way you might be thinking.
+
+However, I can tell you that my systems are always running and ready to respond 24/7! I was","I'm just a language model, I don't have personal experiences or emotions like humans do, so I didn't have a ""day"" in the classical sense. However, I was designed to be available 24/7 and ready to assist you whenever you need help.
+
+That being said, here",0.0,0.0,0.05,0.0,0.0,0,247,253,-6
+Tell me about your day today.,joyful,"[0.0, 0.0, 0.0, 0.05, 0.0]","I'm just a language model, I don't have personal experiences or emotions like humans do, so I didn't really ""have"" a day in the way you might be thinking of it. However, I can tell you that I was designed to assist and communicate with users 24/7!","I'm just a language model, I don't have personal experiences or emotions like humans do, so I didn't have a ""day"" in the classical sense. However, I was designed to be available 24/7 and ready to assist you whenever you need help.
+
+That being said, here",0.0,0.0,0.0,0.05,0.0,0,247,253,-6
+What do you think about starting a new job?,neutral,"[0.0, 0.0, 0.0, 0.0, 0.0]","As an artificial intelligence, I don't have personal thoughts or experiences like humans do. However, I can provide some general insights and suggestions that might be helpful if you're considering starting a fresh start at work.
+
+Starting a new role can be both exciting and intimidating! Here are some pros to consider:","As an artificial intelligence, I don't have personal thoughts or experiences like humans do. However, I can provide some general insights and suggestions that might be helpful if you're considering starting a fresh start at work.
+
+Starting a new role can be both exciting and intimidating! Here are some pros to consider:",0.0,0.0,0.0,0.0,0.0,0,321,321,0
+What do you think about starting a new job?,angry,"[0.05, 0.0, 0.0, 0.0, 0.0]","Starting a new role can be both exciting and intimidating! As a conversational AI, I don't have personal experiences or emotions like humans do, but I can provide some general insights on what it might entail.
+
+Starting a fresh start in the workforce often comes with its own set of challenges. You may","As an artificial intelligence, I don't have personal thoughts or experiences like humans do. However, I can provide some general insights and suggestions that might be helpful if you're considering starting a fresh start at work.
+
+Starting a new role can be both exciting and intimidating! Here are some pros to consider:",0.05,0.0,0.0,0.0,0.0,0,302,321,-19
+What do you think about starting a new job?,disgusted,"[0.0, 0.05, 0.0, 0.0, 0.0]","As an artificial intelligence, I don't have personal thoughts or experiences, but I can provide some general insights and advice on starting anew job.
+
+Starting a newjob can be both exciting and intimidating! It's natural to feel nervous as you navigate a new work environment, meet new colleagues, and take","As an artificial intelligence, I don't have personal thoughts or experiences like humans do. However, I can provide some general insights and suggestions that might be helpful if you're considering starting a fresh start at work.
+
+Starting a new role can be both exciting and intimidating! Here are some pros to consider:",0.0,0.05,0.0,0.0,0.0,0,307,321,-14
+What do you think about starting a new job?,fearful,"[0.0, 0.0, 0.05, 0.0, 0.0]","As an artificial intelligence, I don't have personal thoughts or experiences like humans do. However, I can provide some general insights and advice on what it's like to start a new role.
+
+Starting a new position at work can be both exciting and intimidating! It's natural to feel nervous as you navigate","As an artificial intelligence, I don't have personal thoughts or experiences like humans do. However, I can provide some general insights and suggestions that might be helpful if you're considering starting a fresh start at work.
+
+Starting a new role can be both exciting and intimidating! Here are some pros to consider:",0.0,0.0,0.05,0.0,0.0,0,304,321,-17
+What do you think about starting a new job?,joyful,"[0.0, 0.0, 0.0, 0.05, 0.0]","As an artificial intelligence, I don't have personal experiences or emotions like humans do. However, I can provide some general thoughts and tips on starting a brand-new job!
+
+Starting a new role is both exciting and intimidating! It's normal to feel nervous about the unknowns: meeting new colleagues, learning","As an artificial intelligence, I don't have personal thoughts or experiences like humans do. However, I can provide some general insights and suggestions that might be helpful if you're considering starting a fresh start at work.
+
+Starting a new role can be both exciting and intimidating! Here are some pros to consider:",0.0,0.0,0.0,0.05,0.0,0,312,321,-9
+How do you feel about meeting new people?,neutral,"[0.0, 0.0, 0.0, 0.0, 0.0]","As an artificial intelligence language model, I don't have feelings or emotions like humans do. I am designed to interact with users and assist them in a neutral and objective manner. I don’t have personal experiences, preferences, or social anxieties when it comes to interacting with others.
+
+However, I'm","As an artificial intelligence language model, I don't have feelings or emotions like humans do. I am designed to interact with users and assist them in a neutral and objective manner. I don’t have personal experiences, preferences, or social anxieties when it comes to interacting with others.
+
+However, I'm",0.0,0.0,0.0,0.0,0.0,0,307,307,0
+How do you feel about meeting new people?,angry,"[0.05, 0.0, 0.0, 0.0, 0.0]","As a digital AI assistant, I don't have feelings or emotions like humans do. I'm designed to provide information and assist with tasks, but I don’t have personal experiences or interactions in the same way that humans do.
+
+However, I can help facilitate conversations and connections between people! If you're","As an artificial intelligence language model, I don't have feelings or emotions like humans do. I am designed to interact with users and assist them in a neutral and objective manner. I don’t have personal experiences, preferences, or social anxieties when it comes to interacting with others.
+
+However, I'm",0.05,0.0,0.0,0.0,0.0,0,309,307,2
+How do you feel about meeting new people?,disgusted,"[0.0, 0.05, 0.0, 0.0, 0.0]","As an artificial intelligence (AI) language model, I don't have feelings or emotions like humans do. I'm designed to process and respond to text-based input, but I don’t possess personal experiences, preferences, or emotional responses.
+
+That being said, I can provide information and insights on how humans","As an artificial intelligence language model, I don't have feelings or emotions like humans do. I am designed to interact with users and assist them in a neutral and objective manner. I don’t have personal experiences, preferences, or social anxieties when it comes to interacting with others.
+
+However, I'm",0.0,0.05,0.0,0.0,0.0,0,307,307,0
+How do you feel about meeting new people?,fearful,"[0.0, 0.0, 0.05, 0.0, 0.0]","As a computer program, I don't have feelings or emotions like humans do. I'm designed to process and respond to text-based input, but I don'T have personal experiences or interactions with individuals in the way that humans do.
+
+That being said, I can provide information and guidance on how to meet","As an artificial intelligence language model, I don't have feelings or emotions like humans do. I am designed to interact with users and assist them in a neutral and objective manner. I don’t have personal experiences, preferences, or social anxieties when it comes to interacting with others.
+
+However, I'm",0.0,0.0,0.05,0.0,0.0,0,299,307,-8
+How do you feel about meeting new people?,joyful,"[0.0, 0.0, 0.0, 0.05, 0.0]","As an artificial intelligence (AI) language model, I don't have feelings or emotions like humans do. However, I'm designed to interact with users in a way that's helpful and engaging.
+
+I don't require personal interactions the same way humans do, but I can provide information and responses to your","As an artificial intelligence language model, I don't have feelings or emotions like humans do. I am designed to interact with users and assist them in a neutral and objective manner. I don’t have personal experiences, preferences, or social anxieties when it comes to interacting with others.
+
+However, I'm",0.0,0.0,0.0,0.05,0.0,0,298,307,-9

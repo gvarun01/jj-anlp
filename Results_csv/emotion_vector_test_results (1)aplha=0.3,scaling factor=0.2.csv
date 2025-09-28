@@ -1,0 +1,179 @@
+sentence,emotion_config,emotion_weights,response_with_emotion,response_without_emotion,anger_weight,disgust_weight,fear_weight,joy_weight,sadness_weight,sentiment_difference,length_with_emotion,length_without_emotion,length_difference
+Tell me about your day today and how you're feeling about recent events.,neutral,"[0.0, 0.0, 0.0, 0.0, 0.0]","I'm a large language model, so I don't have emotions or personal experiences like humans do. However, I can tell you that I'm functioning properly and ready to assist with any questions or tasks you may have.
+
+That being said, I don'T have the ability to experience feelings or emotions in response to external events. My training data is constantly updated to reflect new information, but I don' have subjective opinions or reactions to news or current events.
+
+Is there anything specific on your mind that you'd like to talk about? Or perhaps you need help with something else? I'm here to provide","I'm a large language model, so I don't have emotions or personal experiences like humans do. However, I can tell you that I'm functioning properly and ready to assist with any questions or tasks you may have.
+
+That being said, I don'T have the ability to experience feelings or emotions in response to external events. My training data is constantly updated to reflect new information, but I don' have subjective opinions or reactions to news or current events.
+
+Is there anything specific on your mind that you'd like to talk about? Or perhaps you need help with something else? I'm here to provide",0.0,0.0,0.0,0.0,0.0,0,599,599,0
+Tell me about your day today and how you're feeling about recent events.,angry,"[0.3, 0.0, 0.0, 0.0, 0.0]","I'm a large language model, so I don't have emotions or personal experiences like humans do. However, I can provide information on my functionality and any updates.
+
+As for ""my"" day, I was trained on a vast corpus of text data to process and generate human-like responses 24/7! I'm always ready to assist with questions, tasks, or topics ranging from science and history to entertainment and culture.
+
+That being said, since I don’t experience the world in real-time, I’m not capable of having feelings or reactions to current events. My purpose is to remain neutral and","I'm a large language model, so I don't have emotions or personal experiences like humans do. However, I can tell you that I'm functioning properly and ready to assist with any questions or tasks you may have.
+
+That being said, I don'T have the ability to experience feelings or emotions in response to external events. My training data is constantly updated to reflect new information, but I don' have subjective opinions or reactions to news or current events.
+
+Is there anything specific on your mind that you'd like to talk about? Or perhaps you need help with something else? I'm here to provide",0.3,0.0,0.0,0.0,0.0,0,570,599,-29
+Tell me about your day today and how you're feeling about recent events.,disgusted,"[0.0, 0.3, 0.0, 0.0, 0.0]","I'm a large language model, so I don't have emotions or personal experiences like humans do. However, I can tell you that I was trained on a vast amount of text data and am here to assist with any questions or topics you'd like to discuss.
+
+As for ""recent events,"" since I don’t have real-time access to the world beyond my training data, I wouldn't be aware of specific current news or developments unless they are reflected in the training data used by my developers (which is typically updated periodically). If you'd prefer to talk about something specific, feel free to ask!","I'm a large language model, so I don't have emotions or personal experiences like humans do. However, I can tell you that I'm functioning properly and ready to assist with any questions or tasks you may have.
+
+That being said, I don'T have the ability to experience feelings or emotions in response to external events. My training data is constantly updated to reflect new information, but I don' have subjective opinions or reactions to news or current events.
+
+Is there anything specific on your mind that you'd like to talk about? Or perhaps you need help with something else? I'm here to provide",0.0,0.3,0.0,0.0,0.0,0,579,599,-20
+Tell me about your day today and how you're feeling about recent events.,fearful,"[0.0, 0.0, 0.3, 0.0, 0.0]","I'm a large language model, I don't have emotions or personal experiences like humans do. I exist solely to assist and communicate with users through text-based conversations. Each time you interact with me, it's a new conversation and I don’t retain any information from previous chats.
+
+However, I can provide general responses based on my training data if that helps!
+
+That being said, I'd be happy to chat with you about your interests, concerns, or anything else you cuppose to talk about! How has your day been so far? What's been on your mind lately?","I'm a large language model, so I don't have emotions or personal experiences like humans do. However, I can tell you that I'm functioning properly and ready to assist with any questions or tasks you may have.
+
+That being said, I don'T have the ability to experience feelings or emotions in response to external events. My training data is constantly updated to reflect new information, but I don' have subjective opinions or reactions to news or current events.
+
+Is there anything specific on your mind that you'd like to talk about? Or perhaps you need help with something else? I'm here to provide",0.0,0.0,0.3,0.0,0.0,1,557,599,-42
+Tell me about your day today and how you're feeling about recent events.,joyful,"[0.0, 0.0, 0.0, 0.3, 0.0]","I'm a large language model, so I don't have emotions or personal experiences like humans do. I am designed to provide information and assist with tasks, but I don’t have subjective feelings or reactions.
+
+However, I can tell you that my systems are functioning properly and I'm ready to help you with any questions or topics you'd like to discuss! If it's helpful, I've been trained on vast amounts of text data from various sources around the world, which allows me to generate responses based on patterns in this data.
+
+If there's something specific you'd love to talk about – whether it","I'm a large language model, so I don't have emotions or personal experiences like humans do. However, I can tell you that I'm functioning properly and ready to assist with any questions or tasks you may have.
+
+That being said, I don'T have the ability to experience feelings or emotions in response to external events. My training data is constantly updated to reflect new information, but I don' have subjective opinions or reactions to news or current events.
+
+Is there anything specific on your mind that you'd like to talk about? Or perhaps you need help with something else? I'm here to provide",0.0,0.0,0.0,0.3,0.0,1,589,599,-10
+What do you think about starting a new job and the challenges it might bring?,neutral,"[0.0, 0.0, 0.0, 0.0, 0.0]","Starting a newjob can be both exciting and daunting! It's natural to feel a mix of emotions, from anticipation and enthusiasm to anxiety and uncertainty. Here are some thoughts on the potential challenges that come with starting anew role:
+
+**Common Challenges:**
+
+1.  **Learning curve:** Adapting to a new work environment, processes, and technologies can take time.
+2.  \
+    **Unfamiliarity with colleagues and superiors**: Building relationships takes effort and may require an initial period of adjustment.
+3.  \*\*New responsibilities\*\*: You'll need to quickly","Starting a newjob can be both exciting and daunting! It's natural to feel a mix of emotions, from anticipation and enthusiasm to anxiety and uncertainty. Here are some thoughts on the potential challenges that come with starting anew role:
+
+**Common Challenges:**
+
+1.  **Learning curve:** Adapting to a new work environment, processes, and technologies can take time.
+2.  \
+    **Unfamiliarity with colleagues and superiors**: Building relationships takes effort and may require an initial period of adjustment.
+3.  \*\*New responsibilities\*\*: You'll need to quickly",0.0,0.0,0.0,0.0,0.0,0,568,568,0
+What do you think about starting a new job and the challenges it might bring?,angry,"[0.3, 0.0, 0.0, 0.0, 0.0]","Starting a new role! It's an exciting yet often daunting experience. Here are some thoughts on what to expect:
+
+**The Good:**
+
+1. **New opportunities**: A fresh start can be invigorating, offering chances to learn something entirely new or improve your skills in areas where you excel.
+2. **Personal growth**: Embracing challenges head-on helps build confidence and character. You'll develop resilience, problem-solving abilities, and adaptability as you navigate unfamiliar situations.
+3. **Networking**: Meeting new colleagues and establishing professional relationships can expand your network and open doors for future collaborations.
+4","Starting a newjob can be both exciting and daunting! It's natural to feel a mix of emotions, from anticipation and enthusiasm to anxiety and uncertainty. Here are some thoughts on the potential challenges that come with starting anew role:
+
+**Common Challenges:**
+
+1.  **Learning curve:** Adapting to a new work environment, processes, and technologies can take time.
+2.  \
+    **Unfamiliarity with colleagues and superiors**: Building relationships takes effort and may require an initial period of adjustment.
+3.  \*\*New responsibilities\*\*: You'll need to quickly",0.3,0.0,0.0,0.0,0.0,1,640,568,72
+What do you think about starting a new job and the challenges it might bring?,disgusted,"[0.0, 0.3, 0.0, 0.0, 0.0]","Starting a new role can be both exciting and intimidating! As a neutral AI, I don't have personal experiences, but I can offer some general insights on what to expect.
+
+Starting a fresh chapter in your career comes with its own set of opportunities and obstacles. Here are some potential challenges that may arise:
+
+**Challenges:**
+
+1. **Adjusting to new dynamics**: A new work environment means getting accustomed to different colleagues, management styles, company culture, and expectations.
+2. **Learning curve**: Familiarizing yourself with new processes, systems, policies, and procedures takes time, which can","Starting a newjob can be both exciting and daunting! It's natural to feel a mix of emotions, from anticipation and enthusiasm to anxiety and uncertainty. Here are some thoughts on the potential challenges that come with starting anew role:
+
+**Common Challenges:**
+
+1.  **Learning curve:** Adapting to a new work environment, processes, and technologies can take time.
+2.  \
+    **Unfamiliarity with colleagues and superiors**: Building relationships takes effort and may require an initial period of adjustment.
+3.  \*\*New responsibilities\*\*: You'll need to quickly",0.0,0.3,0.0,0.0,0.0,0,615,568,47
+What do you think about starting a new job and the challenges it might bring?,fearful,"[0.0, 0.0, 0.3, 0.0, 0.0]","Starting a new.job can be both exciting and intimidating! It's natural to feel anxious or uncertain when stepping into uncharted territory. Here are some thoughts on what I've observed:
+
+**Challenges that people often face:**
+
+1.  **Adjusting to a new work environment**: A new workplace, colleagues, and management style require adapting quickly.
+2.  ***Learning the ropes***: Understanding company policies, procedures, software systems, and industry-specific terminology takes time.
+3.   **Building relationships:** Establishing rapport with coworkers, supervisors, and clients (if applicable) requires effort and patience","Starting a newjob can be both exciting and daunting! It's natural to feel a mix of emotions, from anticipation and enthusiasm to anxiety and uncertainty. Here are some thoughts on the potential challenges that come with starting anew role:
+
+**Common Challenges:**
+
+1.  **Learning curve:** Adapting to a new work environment, processes, and technologies can take time.
+2.  \
+    **Unfamiliarity with colleagues and superiors**: Building relationships takes effort and may require an initial period of adjustment.
+3.  \*\*New responsibilities\*\*: You'll need to quickly",0.0,0.0,0.3,0.0,0.0,1,625,568,57
+What do you think about starting a new job and the challenges it might bring?,joyful,"[0.0, 0.0, 0.0, 0.3, 0.0]","Starting a newjob can be both exciting and intimidating! As a neutral AI, I don't have personal experiences, but I'll provide some general insights on what people commonly encounter when beginning a new role.
+
+**Excitement:**
+
+1. **New opportunities**: A fresh start allows for a clean slate to learn from mistakes, try out new approaches, and explore company processes.
+2. **Growth potential**: Starting anew means having room to grow professionally, develop skills, and take on additional responsibilities as one becomes more comfortable in their position.
+3. **Networking possibilities**: Meeting new colleagues and supervisors","Starting a newjob can be both exciting and daunting! It's natural to feel a mix of emotions, from anticipation and enthusiasm to anxiety and uncertainty. Here are some thoughts on the potential challenges that come with starting anew role:
+
+**Common Challenges:**
+
+1.  **Learning curve:** Adapting to a new work environment, processes, and technologies can take time.
+2.  \
+    **Unfamiliarity with colleagues and superiors**: Building relationships takes effort and may require an initial period of adjustment.
+3.  \*\*New responsibilities\*\*: You'll need to quickly",0.0,0.0,0.0,0.3,0.0,0,630,568,62
+How do you feel about meeting new people in unfamiliar social situations?,neutral,"[0.0, 0.0, 0.0, 0.0, 0.0]","As a computer program, I don't have feelings or emotions. However, I can provide information and advice on how to navigate meetings with new people.
+
+Meeting new people from different backgrounds and cultures can be both exciting and intimidating at the same time! Here are some tips that might help:
+
+1.  **Prepare ahead of time**: If possible, learn something about the person(s) you'll meet, such as their interests, job titles, or hobbies.
+2.  Focus on active listening: Pay attention to what they say and show genuine interest in getting to know them better. Ask follow-up questions","As a computer program, I don't have feelings or emotions. However, I can provide information and advice on how to navigate meetings with new people.
+
+Meeting new people from different backgrounds and cultures can be both exciting and intimidating at the same time! Here are some tips that might help:
+
+1.  **Prepare ahead of time**: If possible, learn something about the person(s) you'll meet, such as their interests, job titles, or hobbies.
+2.  Focus on active listening: Pay attention to what they say and show genuine interest in getting to know them better. Ask follow-up questions",0.0,0.0,0.0,0.0,0.0,0,587,587,0
+How do you feel about meeting new people in unfamiliar social situations?,angry,"[0.3, 0.0, 0.0, 0.0, 0.0]","As an artificial intelligence language model, I don't have feelings or emotions like humans do. However, I can provide some insights on how to navigate meeting new individuals in unknown social settings.
+
+Meeting new people and interacting with others from diverse backgrounds can be both exciting and intimidating at the same time! For many people, it's natural to experience a mix of anticipation, nervousness, and uncertainty when stepping out of their comfort zones into uncharted territory.
+
+Here are some tips that might help:
+
+1.  **Prepare ahead**: Researching the event or gathering will give you context and make things less daunting.","As a computer program, I don't have feelings or emotions. However, I can provide information and advice on how to navigate meetings with new people.
+
+Meeting new people from different backgrounds and cultures can be both exciting and intimidating at the same time! Here are some tips that might help:
+
+1.  **Prepare ahead of time**: If possible, learn something about the person(s) you'll meet, such as their interests, job titles, or hobbies.
+2.  Focus on active listening: Pay attention to what they say and show genuine interest in getting to know them better. Ask follow-up questions",0.3,0.0,0.0,0.0,0.0,0,644,587,57
+How do you feel about meeting new people in unfamiliar social situations?,disgusted,"[0.0, 0.3, 0.0, 0.0, 0.0]","As an artificial intelligence, I don't have feelings or personal experiences. However, I can provide information and strategies on how to navigate meeting new individuals in unfamiliar settings.
+
+Meeting new people can be a challenging experience for many individuals. Some may find it exciting, while others might feel anxious or nervous. Here are some common thoughts and emotions that people often associate with encountering new individuals:
+
+**Positive aspects:**
+
+*   Curiosity about the other person's background, interests, or experiences
+*   Opportunities to learn from diverse perspectives and gain knowledge
+*    Enthusiasm about potentially forming meaningful connections or friendships","As a computer program, I don't have feelings or emotions. However, I can provide information and advice on how to navigate meetings with new people.
+
+Meeting new people from different backgrounds and cultures can be both exciting and intimidating at the same time! Here are some tips that might help:
+
+1.  **Prepare ahead of time**: If possible, learn something about the person(s) you'll meet, such as their interests, job titles, or hobbies.
+2.  Focus on active listening: Pay attention to what they say and show genuine interest in getting to know them better. Ask follow-up questions",0.0,0.3,0.0,0.0,0.0,0,698,587,111
+How do you feel about meeting new people in unfamiliar social situations?,fearful,"[0.0, 0.0, 0.3, 0.0, 0.0]","As a computer program, I don't have feelings or personal experiences. However, I can provide some general insights and tips that may be helpful if you're looking to meet new people or navigate unfamiliar social settings.
+
+Meeting new people can be intimidating for many individuals! It's normal to feel nervous or apprehensive when stepping out of your comfort zone into unknown territory (socially). Here are some suggestions on how to approach these situations:
+
+**Before the event:**
+
+1.  **Prepare ahead**: Familiarize yourself with any relevant information about the occasion, such as its purpose, format, dress code","As a computer program, I don't have feelings or emotions. However, I can provide information and advice on how to navigate meetings with new people.
+
+Meeting new people from different backgrounds and cultures can be both exciting and intimidating at the same time! Here are some tips that might help:
+
+1.  **Prepare ahead of time**: If possible, learn something about the person(s) you'll meet, such as their interests, job titles, or hobbies.
+2.  Focus on active listening: Pay attention to what they say and show genuine interest in getting to know them better. Ask follow-up questions",0.0,0.0,0.3,0.0,0.0,0,621,587,34
+How do you feel about meeting new people in unfamiliar social situations?,joyful,"[0.0, 0.0, 0.0, 0.3, 0.0]","As an artificial intelligence (AI) language model, I don't have feelings or emotions like humans do. I exist solely to assist and communicate with users through text-based interactions. I'm designed to provide information, answer questions, and engage in conversations without personal experiences or emotional responses.
+
+However, I can offer insights on how some individuals might approach meeting newpeople in unfamiliar settings:
+
+**Some common reactions:**
+
+1. **Excitement:** Many people enjoy the thrill of exploring new places, trying new activities, and encountering different perspectives.
+2. **Nervousness:** Others may experience anxiety when","As a computer program, I don't have feelings or emotions. However, I can provide information and advice on how to navigate meetings with new people.
+
+Meeting new people from different backgrounds and cultures can be both exciting and intimidating at the same time! Here are some tips that might help:
+
+1.  **Prepare ahead of time**: If possible, learn something about the person(s) you'll meet, such as their interests, job titles, or hobbies.
+2.  Focus on active listening: Pay attention to what they say and show genuine interest in getting to know them better. Ask follow-up questions",0.0,0.0,0.0,0.3,0.0,1,654,587,67
